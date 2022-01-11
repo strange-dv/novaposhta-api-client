@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
   name = 'novaposhta',
   packages = ['novaposhta'],
-  version = '0.0.9',
+  version = '0.0.10',
   license='MIT',
   description = 'Python client for Nova Poshta company\'s API.',
   author = 'andrii dovzhenko',
