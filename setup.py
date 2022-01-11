@@ -10,7 +10,7 @@ setup(
   author = 'andrii dovzhenko',
   author_email = 'andrii.dovzhenko.dv@gmail.com',
   url = 'https://github.com/strange-dv/novaposhta-api-client',
-  download_url = 'https://github.com/strange-dv/novaposhta-api-client/archive/refs/tags/v0.0.9.tar.gz',
+  download_url = 'https://github.com/strange-dv/novaposhta-api-client/archive/refs/tags/v0.0.10.tar.gz',
   keywords = ['nova', 'poshta'],
   install_requires=[
         'requests',
